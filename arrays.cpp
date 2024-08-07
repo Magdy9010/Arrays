@@ -4,7 +4,7 @@
 // structure for data -> Orgranize - > algorithm 
 #include <iostream>
 #include <array>
-
+#include <string>
 void automaticArray(const int size)
 {
     int num[size]={10,5,6} ;
